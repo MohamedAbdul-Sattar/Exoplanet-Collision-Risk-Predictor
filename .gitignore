@@ -1,1 +1,10 @@
-
+__pycache__/
+*.pyc
+.env
+venv/
+data/
+datasets/
+*.pkl
+*.h5
+*.pt
+.DS_Store 
